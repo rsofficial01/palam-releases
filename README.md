@@ -7,7 +7,7 @@ answers out loud and points at what it means. It does something for you only aft
 
 | | |
 |---|---|
-| **Mac** (macOS 14.2 or newer, Apple silicon) | [Palam-Mac.zip](https://github.com/rsofficial01/palam-releases/raw/main/downloads/Palam-Mac.zip) |
+| **Mac** (macOS 14.2 or newer; Apple silicon or Intel) | [Palam-Mac.zip](https://github.com/rsofficial01/palam-releases/raw/main/downloads/Palam-Mac.zip) |
 | **Windows** (Windows 10 21H2 or newer, Windows 11; 64-bit) | [Palam-Windows.zip](https://github.com/rsofficial01/palam-releases/raw/main/downloads/Palam-Windows.zip) |
 
 ## Install on a Mac
