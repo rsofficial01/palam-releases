@@ -1,12 +1,12 @@
 {
   "mac": {
     "version": "1.0",
-    "url": "https://github.com/rsofficial01/palam-releases/",
+    "url": "https://github.com/rsofficial01/palam-releases",
     "notes": ""
   },
   "windows": {
     "version": "1.0.0",
-    "url": "https://github.com/rsofficial01/palam-releases/",
+    "url": "https://github.com/rsofficial01/palam-releases",
     "notes": ""
   }
 }
