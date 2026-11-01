@@ -27,6 +27,14 @@ answers out loud and points at what it means. It does something for you only aft
    signing is still being set up).
 3. Hold **Ctrl + Alt + Space** and ask.
 
+## Answers without internet (new: Windows 1.2, Mac 1.1)
+
+Palam can answer typed questions with no internet. In Palam's **Settings › Answers without internet**, press
+**Download** (4.1 GB, once; computers with 8 GB of memory or more). Offline answers are marked "On this computer". They
+are simpler and slower than online answers, Tamil and Tanglish are weaker, and Palam can't point, click or hear you
+offline. It never reads out passwords or codes, and doesn't advise on payments or downloads offline. The download
+comes from the internet once and stays on your computer; you can delete it in Settings.
+
 ## Good to know
 
 - Escape, or saying "stop", ends an answer midway.
