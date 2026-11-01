@@ -1,8 +1,8 @@
 {
   "mac": {
-    "version": "1.1",
+    "version": "1.1.1",
     "url": "https://github.com/rsofficial01/palam-releases",
-    "notes": "Answers without internet: download once in Settings, and Palam answers typed questions on your Mac when there's no internet. Passwords and codes are never read out."
+    "notes": "Answers without internet now answer general questions too (not only what's on the screen), in seconds. Download once in Settings; passwords and codes are never read out."
   },
   "windows": {
     "version": "1.2.1",
