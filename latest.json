@@ -1,12 +1,12 @@
 {
   "mac": {
-    "version": "1.1.1",
+    "version": "1.2",
     "url": "https://github.com/rsofficial01/palam-releases",
-    "notes": "Answers without internet now answer general questions too (not only what's on the screen), in seconds. Download once in Settings; passwords and codes are never read out."
+    "notes": "Offline answers now appear and are spoken as they're written, with a stronger offline download for computers with more memory. Ready the moment your internet drops."
   },
   "windows": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "url": "https://github.com/rsofficial01/palam-releases",
-    "notes": "Answers without internet now answer general questions too (not only what's on the screen), in seconds. Download once in Settings; passwords and codes are never read out."
+    "notes": "Offline answers now appear and are spoken as they're written, with a stronger offline download for computers with more memory. Ready the moment your internet drops."
   }
 }
